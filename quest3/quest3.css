@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+     background: #1C233D;color: white; 
+}
+.imgItem{
+    margin-left: 50px ;
+}
